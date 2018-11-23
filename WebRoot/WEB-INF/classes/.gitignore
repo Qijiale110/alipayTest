@@ -1,0 +1,8 @@
+/applicationContext.xml
+/controller
+/dao
+/entity
+/interceptors
+/mapper
+/service
+/springmvc.xml
